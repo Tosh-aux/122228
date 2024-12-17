@@ -3,9 +3,9 @@
 try {
     // създаваме connection string
     $host = '127.0.0.1';
-    $db   = 'school';
+    $db   = 'university';
     $user = 'root';
-    $pass = '';
+    $pass = 'Qwerty2023@';
     $charset = 'utf8mb4';
 
     $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
