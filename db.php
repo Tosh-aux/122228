@@ -2,7 +2,7 @@
 
 try {
     // създаваме connection string
-    $host = '127.0.0.1';
+    $host = '54.166.22.191';
     $db   = 'university';
     $user = 'root';
     $pass = 'Qwerty2023@';
